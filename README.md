@@ -59,6 +59,7 @@ timeout: 30
 8. Framework Structure
 
 MobileAutomationFramework/
+MobileAutomationFramework/
 ├── config/
 │   ├── capabilities.json   # Appium capabilities configuration
 │   ├── config.yaml         # Framework configuration
@@ -73,7 +74,7 @@ MobileAutomationFramework/
 │   ├── logger.py           # Logging utility
 ├── requirements.txt        # Python dependencies
 ├── README.md               # Documentation
-Running Tests
+
 Run All Tests: Execute all tests in the tests/ folder.
 
 
